@@ -30,7 +30,7 @@ I enjoy solving challenging problems, learning how systems work under the hood, 
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [PaprAI](https://github.com/ShreyaSingh0206/PaprAI---RAG-powered-research-assistant)
+### 🧠 [PaprAI](https://github.com/ShreyaSingh0206/PaprAI--RAG-powered-research-assistant)
 RAG-powered research assistant. Hybrid retrieval over research papers with grounded, cited answers.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
